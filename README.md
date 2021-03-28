@@ -1,5 +1,6 @@
 # whirlpool-wasm
 whirlpool-wasm is a WASM implementation of the Whirlpool hashing algorithm, originally created by Vincent Rijmen and Paulo S. L. M. Barreto. [Website](https://web.archive.org/web/20171129084214/http://www.larc.usp.br/~pbarreto/WhirlpoolPage.html)
+
 Versions Whirlpool-0, Whirlpool-T and Whirlpool (lastest) are supported.
 
 This code is based on the reference implementation, all rights reserved.
